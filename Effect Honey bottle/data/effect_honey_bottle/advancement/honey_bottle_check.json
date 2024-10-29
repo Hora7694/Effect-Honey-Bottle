@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "requirment": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:honey_bottle"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "effect_honey_bottle:honey_bottle_drinked"
+  }
+}
