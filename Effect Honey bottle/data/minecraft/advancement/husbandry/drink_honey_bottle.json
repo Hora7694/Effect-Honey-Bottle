@@ -6,8 +6,8 @@
     "title": "UNLIMITED POWER!!",
     "description": "Drink a honey bottle",
     "frame": "goal",
-    "show_toast": false,
-    "announce_to_chat": false,
+    "show_toast": true,
+    "announce_to_chat": true,
     "hidden": true
   },
   "parent": "minecraft:husbandry/safely_harvest_honey",
