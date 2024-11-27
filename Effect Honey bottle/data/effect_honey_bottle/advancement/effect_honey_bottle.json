@@ -4,11 +4,13 @@
       "id": "minecraft:honey_bottle"
     },
     "title": {
-      "translate": "Effect Honey Bottle"
+      "translate": "ehb.adv.ehb.title",
+      "fallback": "Effect Honey Bottle"
     },
     "description": [
       {
-        "translate": "§fWhen you drink a honey bottle it gives you a effect of §eHaste II §fand §bSpeed I"
+        "translate": "ehb.adv.ehb.desc",
+        "fallback": "§fWhen you drink a honey bottle it gives you a effect of §eHaste II §fand §bSpeed I"
       }
     ],
     "frame": "task",
